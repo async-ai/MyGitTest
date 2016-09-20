@@ -28,4 +28,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="test_eature_dev_add3 remote"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test_eature_dev_add3 remote2"/>
 </LinearLayout>
