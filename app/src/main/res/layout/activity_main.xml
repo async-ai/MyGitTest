@@ -36,5 +36,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="test_eature_dev_add3 remote3"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test_eature_dev_add3 remote4"/>
 
 </LinearLayout>
